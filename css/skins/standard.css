@@ -1,0 +1,10 @@
+
+.cover-content-overlay h1{
+padding:10px 5px 20px 5px;
+font-size:50px;
+margin:0 0 50px 0;
+color:#fff;
+text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+			    
+border-bottom:8px solid #fff;
+}
